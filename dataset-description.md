@@ -1,0 +1,1 @@
+This dataset contains various information on social charcteristics for 2013,2014,2017,2018,2019.

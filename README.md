@@ -4,22 +4,21 @@
 
 # 
 
-You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://aws.amazon.com/marketplace/pp/prodview-<product_id>](https://aws.amazon.com/marketplace/pp/prodview-<product_id>). 
+You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://aws.amazon.com/marketplace/pp/prodview-zndny7zqdq7xu?ref_=beagle&applicationId=AWSMPContessa](https://aws.amazon.com/marketplace/pp/prodview-zndny7zqdq7xu?ref_=beagle&applicationId=AWSMPContessa). 
 
 ## Main Overview
-
+This dataset provides information given by American Community Survey for the social characteristics in all united states counties. These data are for the following years: 2013,2014,2017,2018,2019. The data reveals the information on marital status,Education, Grandparents, Relationships and many more. The data updates annually. For more information you can visit [ACS|Social Characteristics 5-Years Estimates](https://www.census.gov/acs/www/data/data-tables-and-tools/data-profiles/)
 #### Data Source
-
+This data source contains unique columns.
 ## More Information
-- Source: <Title of dataset page> [Link]() 
-- <Link to dataset source>
-- Terms of Use: [Link]()
-- Frequency: <Weekly / Daily>
-- Formats: <CSV / TXT>
+- Source: <American Community Survey|Social Characteristics> [Link](https://data.census.gov/cedsci/table?d=ACS%201-Year%20Estimates%20Data%20Profiles&tid=ACSDP1Y2019.DP02&hidePreview=false) 
+- Terms of Use: [Link](https://www.census.gov/about/policies/privacy.html)
+- Frequency: <Annually>
+- Formats: <CSV>
 
 ## Contact Details
-- If you find any issues with or have enhancement ideas for this product, open up a GitHub [issue]() and we will gladly take a look at it. Better yet, submit a pull request. Any contributions you make are greatly appreciated :heart:.
-- If you are looking for specific open datasets currently not available on ADX, please submit a request on our project board [here]().
+- If you find any issues with or have enhancement ideas for this product, open up a GitHub [issue](https://github.com/rearc-data/social-characteristics-estimates) and we will gladly take a look at it. Better yet, submit a pull request. Any contributions you make are greatly appreciated :heart:.
+- If you are looking for specific open datasets currently not available on ADX, please submit a request on our project board [here](https://github.com/orgs/rearc-data/projects).
 - If you have questions about the source data, please contact .
 - If you have any other questions or feedback, send us an email at data@rearc.io.
 
