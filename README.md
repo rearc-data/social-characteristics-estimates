@@ -13,8 +13,8 @@ This data source contains unique columns.
 ## More Information
 - Source: <American Community Survey|Social Characteristics> [Link](https://data.census.gov/cedsci/table?d=ACS%201-Year%20Estimates%20Data%20Profiles&tid=ACSDP1Y2019.DP02&hidePreview=false) 
 - Terms of Use: [Link](https://www.census.gov/about/policies/privacy.html)
-- Frequency: <Annually>
-- Formats: <CSV>
+- Frequency: Annually
+- Formats: CSV
 
 ## Contact Details
 - If you find any issues with or have enhancement ideas for this product, open up a GitHub [issue](https://github.com/rearc-data/social-characteristics-estimates) and we will gladly take a look at it. Better yet, submit a pull request. Any contributions you make are greatly appreciated :heart:.
